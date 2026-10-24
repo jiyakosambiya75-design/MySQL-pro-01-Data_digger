@@ -1,4 +1,3 @@
-
 CREATE DATABASE shopzone_db;
 
 USE shopzone_db;
