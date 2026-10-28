@@ -1,6 +1,6 @@
-CREATE DATABASE shopzone_db;
+CREATE DATABASE Data_digger;
 
-USE shopzone_db;
+USE Data_digger;
 
 CREATE TABLE Customers (
     Customer_id INT PRIMARY KEY,
