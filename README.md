@@ -293,6 +293,9 @@ The project can be extended with the following features:
 
 ---
 
+Explanation video:https://drive.google.com/file/d/12zS1RcQ-fQsZwals7dpf8R7LRprVWOws/view?usp=drivesdk
+
+---
 ## ❤️ Conclusion
 
 The ShopZone Database Management System demonstrates how SQL and MySQL can be used to organize and manage e-commerce data.
